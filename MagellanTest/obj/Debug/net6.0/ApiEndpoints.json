@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "MagellanTest.Controllers.ItemsController",
+    "Method": "Get",
+    "RelativePath": "Items/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MagellanTest.Controllers.ItemsController",
+    "Method": "GetTotalCost",
+    "RelativePath": "Items/GetTotalCost",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "itemName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MagellanTest.Controllers.ItemsController",
+    "Method": "Post",
+    "RelativePath": "Items/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_item",
+        "Type": "MagellanTest.Controllers.ItemsController\u002BNewItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\Magellan-Aerospace-NY-Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|d:\\repos\\magellan-aerospace-ny-test\\magellantest\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|d:\\repos\\magellan-aerospace-ny-test\\magellantest\\postgresqlscript\\partdb.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\postgresqlscript\\partdb.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|d:\\repos\\magellan-aerospace-ny-test\\magellantest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|d:\\repos\\magellan-aerospace-ny-test\\magellantest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\Program.cs",
+              "RelativeDocumentMoniker": "MagellanTest\\Program.cs",
+              "ToolTip": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\Program.cs",
+              "RelativeToolTip": "MagellanTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:17:49.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\appsettings.json",
+              "RelativeDocumentMoniker": "MagellanTest\\appsettings.json",
+              "ToolTip": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\appsettings.json",
+              "RelativeToolTip": "MagellanTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T09:41:29.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartDB.sql",
+              "DocumentMoniker": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\PostgreSqlScript\\PartDB.sql",
+              "RelativeDocumentMoniker": "MagellanTest\\PostgreSqlScript\\PartDB.sql",
+              "ToolTip": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\PostgreSqlScript\\PartDB.sql",
+              "RelativeToolTip": "MagellanTest\\PostgreSqlScript\\PartDB.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-20T06:32:31.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "MagellanTest\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Repos\\Magellan-Aerospace-NY-Test\\MagellanTest\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "MagellanTest\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:26:12.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
